@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 # 🔗 Socials
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gl1tchy@racist.email)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord://discordapp.com/users/1095780979072831569)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gl1tchy.exe)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord://discordapp.com/users/1115207683012829240)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanish_tomarrr)
 [![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gl1tchyWasTaken)
 [![Medium](https://img.shields.io/badge/Medium-F2B715?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Gl1tchy)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Gl1tchyUwU)
